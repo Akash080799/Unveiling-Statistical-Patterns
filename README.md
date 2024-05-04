@@ -1,5 +1,5 @@
 # Statistics
-This space showcases the case studies done on statistical aspects of the dataset using Python libraries and Statistics.
+This space showcases the case study done to unveil the statistical aspects of the dataset using Python libraries and Statistics.
 
 ### Case Study:
 Aerofit is a leading brand in the field of fitness equipment. Aerofit provides a product range including machines such as treadmills, exercise bikes, gym equipment, and fitness accessories to cater to the needs of all categories of people.
