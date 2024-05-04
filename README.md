@@ -1,4 +1,4 @@
-# Statistics
+# Descriptive Analytics Demystified: Unveiling Statistical Patterns!
 This space showcases the case study done to unveil the statistical aspects of the dataset using Python libraries and Statistics.
 
 ### Case Study:
